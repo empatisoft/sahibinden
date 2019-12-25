@@ -1,0 +1,13 @@
+{
+	"description": "Sahibinden kategori botu",
+	"name": "empatisoft/sahibinden",
+	"type": "project",
+	"homepage": "https://empatisoft.com",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.7",
+		"ext-json": "*",
+		"paquettg/php-html-parser": "^2.1"
+    },
+	"require-dev": {}
+}
